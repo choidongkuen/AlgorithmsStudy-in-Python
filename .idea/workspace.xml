@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b72585db-1eee-4530-ab56-602c4a5fd64e" name="변경" comment="변경" />
+    <list default="true" id="b72585db-1eee-4530-ab56-602c4a5fd64e" name="변경" comment="변경">
+      <change afterPath="$PROJECT_DIR$/Simulation02/Simulation01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Simulation02/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simulation/Simulation01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Simulation01/Simulation01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simulation/Simulation02.py" beforeDir="false" afterPath="$PROJECT_DIR$/Simulation01/Simulation02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simulation/Simulation03.py" beforeDir="false" afterPath="$PROJECT_DIR$/Simulation01/Simulation03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simulation/Simulation04.py" beforeDir="false" afterPath="$PROJECT_DIR$/Simulation01/Simulation04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simulation/Simulation05.py" beforeDir="false" afterPath="$PROJECT_DIR$/Simulation01/Simulation05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simulation/Simulation06.py" beforeDir="false" afterPath="$PROJECT_DIR$/Simulation01/Simulation06.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simulation/Simulation07.py" beforeDir="false" afterPath="$PROJECT_DIR$/Simulation01/Simulation07.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simulation/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Simulation01/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,7 +49,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.ES22">
+  <component name="RunManager" selected="Python.Simulation02">
     <configuration name="ES21" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmsStudy-in-Python " />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Simulation01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Simulation01 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="AlgorithmsStudy-in-Python " />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,11 +100,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Simulation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Simulation02" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Simulation/Simulation01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Simulation02/Simulation01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Simulation02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmsStudy-in-Python " />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Simulation02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Simulation02/Simulation02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AlgorithmsStudy-in-Python " />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,9 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Simulation02" />
+        <item itemvalue="Python.Simulation01 (1)" />
+        <item itemvalue="Python.main" />
         <item itemvalue="Python.ES22" />
         <item itemvalue="Python.ES21" />
-        <item itemvalue="Python.Simulation01" />
       </list>
     </recent_temporary>
   </component>
