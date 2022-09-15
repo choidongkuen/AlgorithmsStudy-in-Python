@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b72585db-1eee-4530-ab56-602c4a5fd64e" name="변경" comment="변경">
-      <change afterPath="$PROJECT_DIR$/Simulation01/Simulation08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simulation01/Simulation09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Simulation01/Simulation10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b72585db-1eee-4530-ab56-602c4a5fd64e" name="변경" comment="변경" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
