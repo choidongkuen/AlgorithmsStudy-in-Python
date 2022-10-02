@@ -15,31 +15,3 @@
 
 # 출력 예시
 # 20
-
-OFFSET = 100
-MAX_N = 200
-
-arr =[
-    [0] * (MAX_N +1)
-    for _ in range(MAX_N + 1)
-]
-
-n = int(input())
-
-for i in range(n):
-    x1,y1,x2,y2 = tuple(map(int,input().split()))
-    x1 += OFFSET
-    y1 += OFFSET
-    x2 += OFFSET
-    y2 += OFFSET
-
-    for row in range(x1 , x2):
-        for col in range(y1, y2):
-            arr[row][col] += 1
-
-s = 0
-for i in range(MAX_N + 1):
-    for j in range(MAX_N + 1):
-        if(arr[i][j] != 0):
-            s += 1
-print(s)

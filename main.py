@@ -1,5 +1,2 @@
-a = list(map(int,input())) # 간격 x
-print(a)
-
-b = list(map(int,input().split())) # 간격 o
-print(b)
+visited = [[False for _ in range(2)] for _ in range(2)]
+print(visited)
